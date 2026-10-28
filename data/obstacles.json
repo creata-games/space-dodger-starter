@@ -1,0 +1,35 @@
+{
+  "obstacles": [
+    {
+      "slug": "example_obstacle",
+      "title": "Твоё препятствие",
+      "look": "Опиши внешний вид.",
+      "behavior": "Опиши поведение.",
+      "why_fair": "Опиши предупреждение для игрока.",
+      "sprite": "",
+      "hit": {
+        "shape": "circle",
+        "radius": 1.0,
+        "offset": [
+          0.0,
+          0.0
+        ]
+      },
+      "suggested_scale": 1.0,
+      "created": "2026-10-29",
+      "game": {
+        "enabled": false,
+        "behavior": "",
+        "params": {},
+        "weight": 0.0,
+        "min_wave": 1,
+        "speed_factor": 1.0,
+        "scale": 1.0,
+        "debut": false,
+        "hp": 1,
+        "points": 0,
+        "color": "#FFFFFF"
+      }
+    }
+  ]
+}

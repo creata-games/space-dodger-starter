@@ -1,0 +1,20 @@
+# Godot-generated cache, exports and import metadata.
+.godot/
+/build/
+*.import
+# Keep *.gd.uid files: they are source resource identifiers.
+
+# Local configuration and credentials.
+.env
+.env.*
+!.env.example
+.claude/settings.local.json
+*.pem
+*.key
+
+# Generated source images and local Python environments.
+_raw/
+.venv/
+__pycache__/
+*.pyc
+.DS_Store
